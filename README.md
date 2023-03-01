@@ -11,5 +11,5 @@
       - A
 ## Spring Framework hoạt động như thế nào?
   
-## Cách cài đặt Spring Framework
+## Cài đặt Spring Framework
 ## Luồng xử lý dữ liệu và các khái niệm liên quan
