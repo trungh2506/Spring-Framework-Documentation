@@ -17,3 +17,8 @@ Spring Data
   
 ## Cài đặt Spring Framework
 ## Luồng xử lý dữ liệu và các khái niệm liên quan
+## Các Modules của Spring Framework
+  + Test
+    - Hỗ trợ kiểm thử các thành phần Spring bằng JUnit hoặc TestNG
+  + Data Access / Integration
+    - Bao gồm các module JDBC, ORM, OXM, JMS và Transaction
