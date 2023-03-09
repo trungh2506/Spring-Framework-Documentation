@@ -21,4 +21,4 @@ Spring Data
   + Test
     - Hỗ trợ kiểm thử các thành phần Spring bằng JUnit hoặc TestNG
   + Data Access / Integration
-    - Bao gồm các module JDBC, ORM, OXM, JMS và Transaction
+    - Bao gồm các module JDBC, ORM, OXM, JMS và Transaction, các modules này cung cấp khả năng giao tiếp với cơ sở dữ liệu
